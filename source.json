@@ -14,6 +14,15 @@
       "tintColor": "#10B981",
       "versions": [
         {
+          "version": "0.1.24",
+          "buildVersion": "30",
+          "date": "2026-11-17",
+          "localizedDescription": "Compilação 30. Atualiza por cima da instalação existente e mantém os dados locais.",
+          "downloadURL": "https://github.com/CentFlowLab/Miven-downloads/releases/download/sideload-build-30/centflow-unsigned.ipa",
+          "size": 23164590,
+          "minOSVersion": "16.4"
+        },
+        {
           "version": "0.1.23",
           "buildVersion": "29",
           "date": "2026-11-16",
@@ -23,9 +32,9 @@
           "minOSVersion": "16.4"
         }
       ],
-      "version": "0.1.23",
-      "downloadURL": "https://github.com/CentFlowLab/CentFlow/releases/download/sideload-build-29/centflow-unsigned.ipa",
-      "size": 23096312
+      "version": "0.1.24",
+      "downloadURL": "https://github.com/CentFlowLab/Miven-downloads/releases/download/sideload-build-30/centflow-unsigned.ipa",
+      "size": 23164590
     }
   ],
   "news": []
